@@ -1,9 +1,20 @@
-# Surfn Numix Misty icon theme
+<h1 align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+  <br />
+  Surfn Numix Misty
+</h1>
 
-A variant of the [Surfn](https://github.com/erikdubois/surfn) icon theme. Ships only the
-**Surfn-Numix-Misty** theme; it inherits the base **Surfn** set, so `surfn-icons-git` is required.
+![Last-Commit](https://img.shields.io/github/last-commit/erikdubois/surfn-numix-misty?style=for-the-badge)
 
-## Installation
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/erikdubois?style=flat">&nbsp;&nbsp;<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/erikdubois/surfn-numix-misty">&nbsp;&nbsp;<img alt="GitHub forks" src="https://img.shields.io/github/forks/erikdubois/surfn-numix-misty">
+
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCJdmdUp5BrsWsYVQUylCMLg">&nbsp;&nbsp;<img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCJdmdUp5BrsWsYVQUylCMLg">
+
+---
+
+A colour variant of the [Surfn](https://github.com/erikdubois/surfn) icon theme. Ships only the **Surfn-Numix-Misty** theme and inherits the base **Surfn** icon set, so `surfn-icons-git` is required.
+
+## Installation (Arch / Kiro — nemesis_repo)
 
 ```
 sudo pacman -S surfn-numix-misty-icons-git
@@ -13,9 +24,9 @@ sudo pacman -S surfn-numix-misty-icons-git
 
 ## Manual
 
-Copy `usr/share/icons/Surfn-Numix-Misty` into `~/.icons` (or `~/.local/share/icons` on Plasma),
-ensure the base `Surfn` theme is present, then select **Surfn Numix Misty** in your appearance settings.
+Copy the **Surfn-Numix-Misty** icon folder into `~/.icons` (or `~/.local/share/icons` on Plasma),
+make sure the base `Surfn` theme is present, then select **Surfn Numix Misty** in your appearance settings.
 
 ## License
 
-See [LICENSE](./LICENSE) — Attribution-NonCommercial-ShareAlike 4.0 International.
+[LICENSE](./LICENSE) — Attribution-NonCommercial-ShareAlike 4.0 International.
